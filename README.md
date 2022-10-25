@@ -1,5 +1,7 @@
 ### Opa, beleza? 👋 eu sou o Pedro Arthur ou Prejuh se preferir
 
+### Tenho 21 anos e estou atualmente cursando o 4°semestre de Economia
+
 <!--
 **PedroArthur11/PedroArthur11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
